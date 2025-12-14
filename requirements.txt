@@ -3,3 +3,4 @@ pandas
 pick
 requests==2.28.0
 termcolor
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
